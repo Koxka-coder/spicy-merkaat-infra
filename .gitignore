@@ -1,0 +1,8 @@
+# Variables de entorno (contienen secrets)
+.env
+
+# Datos de volúmenes locales
+data/
+
+# Logs
+*.log
